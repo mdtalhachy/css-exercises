@@ -1,0 +1,14 @@
+.btn {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    border: outset;
+}
+
+#click {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
+
+#no-click {
+    background-color: hsl(56, 100%, 50%);;
+}
